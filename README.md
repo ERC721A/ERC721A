@@ -1,3 +1,7 @@
+> WARNING
+
+This repo is a fork of original [https://github.com/chiru-labs/ERC721A](ERC721A) implementation created for better Remix IDE support. You should really use an original repo or NPM package!
+
 [![Docs][docs-shield]][docs-url]
 [![NPM][npm-shield]][npm-url]
 [![CI][ci-shield]][ci-url]
